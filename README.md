@@ -4,3 +4,6 @@ This is my attempt at redoing my Software Engineering project from my junior yea
 STACK:(HTML5, Python, Django, Bootstrap)
 
 To start I will pull the work from Python_Website.
+
+First responders include
+Paramedics, police officer/departments, and Firefighters
